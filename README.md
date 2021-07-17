@@ -1,7 +1,11 @@
-### Hi there 👋
 
-#### I'm a Korean developer
 
+<h3 align="center"> I'm a Korean developer </h3>
+
+<h2 align="center"> <Tech Stack> </h3>
+
+  <h3 align="center"> Including only one-time use 🤔 </h3>
+  
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <!--
