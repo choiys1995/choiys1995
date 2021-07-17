@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### I'm a Korean developer
+
+https://img.shields.io/badge/-python-important
+
 <!--
 **choiys1995/choiys1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
