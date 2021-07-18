@@ -9,7 +9,7 @@
 <p align="center">
   
   ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-  <a href="mailto:choiys1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-20c997?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:choiys1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
   
 
