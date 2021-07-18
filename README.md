@@ -6,14 +6,15 @@
 
   <h3 align="center"> Including only one-time use 🌱 </h3>
   
-<p align="center">
+
+  <p align="center">
   
-  ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   
 
   
 
-</p>
+  </p>
   <h3 align="center"> Me </h3>
   <p align="center">
   <a href="mailto:choiys1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
