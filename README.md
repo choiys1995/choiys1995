@@ -19,6 +19,9 @@
   <p align="center">
   <a href="mailto:choiys1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
+  <p>
+  <a href="https://rmdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-brightgreen"/></a>
+  </p>
     
 <!--
 **choiys1995/choiys1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
