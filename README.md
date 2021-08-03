@@ -18,7 +18,7 @@
   <h3 align="center"> Me </h3>
   <p align="center">
   <a href="mailto:choiys1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://rmdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-brightgreen"/></a>
+  <a href="https://rmdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square"/></a>
   </p>
   
     
