@@ -21,7 +21,7 @@
   <h3 align="center"> Me </h3>
   <p align="center">
     <a href="mailto:choiys1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://rmdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="https://rmdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Brightgreen?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://github.com/choiys1995" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   </p>
   
