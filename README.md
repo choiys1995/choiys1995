@@ -4,7 +4,7 @@
 
 <h2 align="center"> <Tech Stack> </h3>
 
-  <h3 align="center"> Including only one-time use 🌱 </h3>
+  <h3 align="center"> Tech Stack 🌱 </h3>
   
 
   <p align="center">
