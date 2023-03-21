@@ -28,6 +28,10 @@
     <a href="https://github.com/choiys1995" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   </p>
   
+   <p align="center">
+    <a href="https://rmdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Darkgrey?style=flat-square&logo=Notion&logoColor=white"/></a>
+  </p>
+  
     
 <!--
 **choiys1995/choiys1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
