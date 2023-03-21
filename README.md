@@ -29,7 +29,7 @@
   </p>
   
    <p align="center">
-    <a href="https://rmdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Darkgrey?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <a href="https://www.notion.so/1efa5a3026d44c2c9f7fa640eb352177" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   </p>
   
     
